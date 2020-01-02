@@ -1,4 +1,4 @@
-# Human-Protein-Atlas-Image-Classification
+# Human Protein Atlas Image Classification
 
 
 ![](header.png)
