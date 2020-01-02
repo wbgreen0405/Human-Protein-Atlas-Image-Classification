@@ -10,7 +10,7 @@ The Human Protein Atlas will use these models to build a tool integrated with th
 - Link for the competition: [Human Protein Atlas Image Classification](https://www.kaggle.com/c/human-protein-atlas-image-classification)
 
 #### Models
-- resnet18 512x512 RGB 
-- resnet32 512x512 RGB  
-- bninception 512x512 RGB  
+- Rsnet34 512x512 RGBY 
+- Densent121 w/ LSTM with groupnormalization 512x512 RGB  
+- Resnet50 512x512 RGB  
 Classify subcellular protein patterns in human cells
